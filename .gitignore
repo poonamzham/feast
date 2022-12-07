@@ -224,3 +224,15 @@ ui/.vercel
 
 # Go subprocess binaries (built during feast pip package building)
 sdk/python/feast/binaries/
+**/.ipynb_checkpoints/*
+**/.virtual_documents/*
+assets/.METADATA/job_run.*
+assets/job_run
+__pypackages__/
+*.py,cover
+cover/
+db.sqlite3-journal
+.pybuilder/
+celerybeat.pid
+.pytype/
+cython_debug/
